@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+/* header{
+    color: white;
+    text-align: center;
+    padding: 20px;
+} */
+h1{
+    color: red;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav{
+    color: yellowgreen;
+    background-color: rgb(237, 237, 72);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+nav a:hover{
+    color: blue;
+}
+
+section{
+    padding: 20px;
+    text-align: center;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(228, 183, 98);
+    padding: 20px;
+    color: white;
+}
